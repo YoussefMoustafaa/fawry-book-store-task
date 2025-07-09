@@ -79,7 +79,7 @@ This BookStore System is a simple Java application that simulates a digital book
 
 ## Example Usage
 
-```
+```java
 System.out.println("=== BookStore Functionality Test ===\n");
 
         BookStore store = new BookStore();
@@ -150,45 +150,6 @@ System.out.println("=== BookStore Functionality Test ===\n");
 ```
 
 Example Output:
-
-```
-=== BookStore Functionality Test ===
-
-Adding books...
-Books added!
-
-Current Available Books:
-The Alchemist (ISBN: 9787438112761)
-Atomic Habits (ISBN: 9783332570212)
-Clean Code (ISBN: 9786549619828)
-
-Buying a paper book...
-Buying paper book: The Alchemist (ISBN: 9787438112761)
-Price: 80.0
-Year: 2005
-Remaining stock: 2
-Shipping 1 copies of paper book: The Alchemist
-To address: Nasr City
-Remaining stock after shipping: 1
-
-Buying an ebook...
-Buying e-book: Atomic Habits (ISBN: 9783332570212)
-File type: EPUB
-Price: $60.0
-Sending Book: Atomic Habits
-via email to: adam@hotmail.com
-
-Trying to buy a demo book...
-Expected error: This is a demo book and cannot be purchased.
-Removing a book...
-Removed 'Atomic Habits' Book.
-
-BookStore after removal:
-The Alchemist (ISBN: 9787438112761)
-Clean Code (ISBN: 9786549619828)
-
-=== Test Complete ===
-```
 
 ![A screenshot of the running app for more visual demonstration:](output%20screenshot.png)
 
