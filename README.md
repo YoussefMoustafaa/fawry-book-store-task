@@ -190,6 +190,8 @@ Clean Code (ISBN: 9786549619828)
 === Test Complete ===
 ```
 
+![A screenshot of the running app for more visual demonstration:][output screenshot.png]
+
 ## Extending the System
 
 - To add new book types, extend the `Book` class and implement the `buy` method.
