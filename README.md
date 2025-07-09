@@ -190,7 +190,7 @@ Clean Code (ISBN: 9786549619828)
 === Test Complete ===
 ```
 
-![A screenshot of the running app for more visual demonstration:][output screenshot.png]
+![A screenshot of the running app for more visual demonstration:](output%20screenshot.png)
 
 ## Extending the System
 
