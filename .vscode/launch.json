@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BookStoreTest",
+            "request": "launch",
+            "mainClass": "bookStore.BookStoreTest",
+            "projectName": "Quantum Bookstore_f91f013c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
